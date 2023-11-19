@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.conteudo{
+   
+     max-width: 1450px;
+     margin: 0 auto; /* Define margens automáticas para centralizar horizontalmente */
+     position: relative; /* Define a posição como relativa para que possamos centralizar verticalmente */
+     top: 50%; /* Move o contêiner para 50% da altura da janela de exibição */
+    
+      
+      
+}
+.container1 {
+    columns: 300px 2;
+    justify-content: space-between;
+    margin: 80px;
+   
+}
+
+hr {
+    margin-right: 35px;
+}
+
+p {
+    margin-right: 40px;
+    text-align: justify;
+}
+
+
+
+@media screen and (max-width: 400px) {
+    .container1 {
+        margin: 15px;
+    }
+    .title {
+        margin-top: 15px;
+        margin-left: 19px;
+    }
+    hr {
+        margin-left: 19px;
+    }
+    p {
+        margin-left: 19px;
+        margin-right: 19px;
+    }
+    .imagem {
+        width: 100%;
+    }
+}
+
+.container2 {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+}
+
+.container2 p {
+    text-align: justify;
+}
+
+@media screen and (max-width: 400px) {
+    .container2 {
+        margin: 15px;
+        margin-top: 30px;
+    }
+    .container2 h2 {
+        font-size: 24px;
+        margin-left: 19px;
+    }
+    hr {
+        margin-left: 19px;
+        margin-right: 19px;
+    }
+}

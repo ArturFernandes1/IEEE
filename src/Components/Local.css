@@ -1,0 +1,39 @@
+/* Sobre a empresa*/
+
+#about-area {
+	background-color: #F3F3F3;
+}
+
+.main-title {
+	color: #444;
+	margin-bottom: 5px;
+	margin-top: 40px;
+	font-size:40px;
+	text-align: center;
+}
+
+.about-title {
+	font-weight: bold;
+	font-size: 17px;
+	color: #444;
+	text-transform: uppercase;
+}
+
+
+#about-list {
+	list-style: none;
+	padding-left: 0%;
+}
+
+#about-list li {
+	line-height: 30px;
+}
+
+#about-list i {
+	color: #65daf9;
+	margin-right: 15px;
+}
+
+.img-fluid{
+	margin-bottom: 10px;
+}

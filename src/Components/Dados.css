@@ -1,0 +1,31 @@
+#data-area{
+    /* The image used */
+  background-image: url("../Assets/estudantes3.jpg");
+
+  /* Set a specific height */
+  min-height: 10px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0px;
+  margin-top: 60px;
+}
+
+.progressbar-text {
+	font-weight: bold;
+	font-size: 32px;
+}
+
+.text-center{
+  margin-top: 15px;
+}
+
+#data-area p {
+	color: #FFF;
+	text-align: center;
+	font-size: 26px;
+	margin-top: 20px;
+}

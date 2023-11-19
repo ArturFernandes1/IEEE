@@ -1,0 +1,31 @@
+
+
+#card-content{
+    /* The image used */
+  background-image: url("../Assets/pattern.png");
+
+  /* Set a specific height */
+  min-height: 200px;
+  text-align: center;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 15px;
+  margin-top: 60px;
+  padding: 0;
+}
+
+img.ifpb{
+  border-radius: 5px;
+}
+
+.my-text{
+  color: white !important;
+}
+
+#card-apply{
+  margin-top: 15%;  
+}

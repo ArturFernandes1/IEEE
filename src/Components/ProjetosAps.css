@@ -1,0 +1,22 @@
+.img-projeto{ 
+    width: 117px; 
+    height: 93px;
+} 
+.img-border{ 
+    border-radius: 10px;
+}  
+.p-projetosAps{ 
+    color: #444; 
+    font-size: 15px; 
+    word-wrap: wrap; 
+    margin: 10px 0; 
+    text-align: start;
+} 
+.p-projeto-small{ 
+    margin-left: 35px;
+} 
+/*@media screen and (max-witdth: 375px) {
+    .content-projeto-aps{ 
+        transform: translateX(1000px);
+    }
+}*/

@@ -1,0 +1,14 @@
+.componente-evento{ 
+    background-image: url('../Assets/figura\ 1.png'); 
+    width: 100vw;     
+    height: 20vw;  
+    background-size: contain; 
+    margin-left: 150px;
+    background-repeat: no-repeat; 
+} 
+.text{ 
+    text-wrap: wrap;  
+    width: 300px; 
+    margin: 40px 20px; 
+    font-weight: 600;
+}

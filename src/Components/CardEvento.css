@@ -1,0 +1,9 @@
+.card{ 
+    border: none; 
+}  
+.title-card{ 
+    text-wrap: wrap; 
+} 
+.text-cardEvento{ 
+    margin: 20px 0;
+}

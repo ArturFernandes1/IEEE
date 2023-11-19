@@ -1,0 +1,33 @@
+.content-cardEvento{  
+    margin: 30px 30px;
+} 
+.cardCurso{   
+    margin: 40px 20px;
+    border-radius: 15px;
+    width: 1000px;  
+    background-color: #ccc;  
+    display: flex;
+} 
+.img-CardCurso{ 
+    width: 300px; 
+    height: 300px; 
+    margin-left: -20px;
+}  
+.text-CardCurso{ 
+    margin: 20px 100px;
+} 
+.title-cardCurso{ 
+    font-size: 1.3em; 
+    font-weight: 600; 
+    color: #B79726;
+} 
+.subtitle-cardCurso{ 
+    font-weight: 600;
+}   
+.word-cardCurso{ 
+    width: 400px; 
+    text-wrap: wrap;
+}
+.clear{ 
+    clear: both;
+}
